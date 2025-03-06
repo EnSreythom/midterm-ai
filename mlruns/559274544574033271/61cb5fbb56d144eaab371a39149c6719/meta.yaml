@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/61cb5fbb56d144eaab371a39149c6719/artifacts
+end_time: 1741284295239
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 61cb5fbb56d144eaab371a39149c6719
+run_name: fun-wren-99
+run_uuid: 61cb5fbb56d144eaab371a39149c6719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741284287810
+status: 3
+tags: []
+user_id: En ty

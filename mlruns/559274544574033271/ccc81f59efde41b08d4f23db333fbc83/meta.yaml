@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/ccc81f59efde41b08d4f23db333fbc83/artifacts
+end_time: 1741283302122
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: ccc81f59efde41b08d4f23db333fbc83
+run_name: unique-mare-868
+run_uuid: ccc81f59efde41b08d4f23db333fbc83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741283294320
+status: 3
+tags: []
+user_id: En ty

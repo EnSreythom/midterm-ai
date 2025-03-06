@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/4a6d48406d8740678ad5745a74b3a5cd/artifacts
+end_time: 1741284268115
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 4a6d48406d8740678ad5745a74b3a5cd
+run_name: serious-pig-253
+run_uuid: 4a6d48406d8740678ad5745a74b3a5cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741284261629
+status: 4
+tags: []
+user_id: En ty

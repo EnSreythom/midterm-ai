@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/40da27bb0ea04af697bffb72b0f6cf26/artifacts
+end_time: 1741284355431
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 40da27bb0ea04af697bffb72b0f6cf26
+run_name: peaceful-jay-101
+run_uuid: 40da27bb0ea04af697bffb72b0f6cf26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741284348327
+status: 3
+tags: []
+user_id: En ty

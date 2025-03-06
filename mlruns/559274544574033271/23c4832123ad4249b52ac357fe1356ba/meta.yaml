@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/23c4832123ad4249b52ac357fe1356ba/artifacts
+end_time: 1741283081512
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 23c4832123ad4249b52ac357fe1356ba
+run_name: handsome-hound-774
+run_uuid: 23c4832123ad4249b52ac357fe1356ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741283070540
+status: 3
+tags: []
+user_id: En ty

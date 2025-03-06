@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/83687e9439cf492dbc52db1b9398fe05/artifacts
+end_time: 1741284742512
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 83687e9439cf492dbc52db1b9398fe05
+run_name: SupportVectorClassifier
+run_uuid: 83687e9439cf492dbc52db1b9398fe05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741284732431
+status: 3
+tags: []
+user_id: En ty

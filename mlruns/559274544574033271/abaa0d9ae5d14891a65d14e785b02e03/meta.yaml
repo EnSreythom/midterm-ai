@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/abaa0d9ae5d14891a65d14e785b02e03/artifacts
+end_time: 1741284339294
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: abaa0d9ae5d14891a65d14e785b02e03
+run_name: popular-horse-407
+run_uuid: abaa0d9ae5d14891a65d14e785b02e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741284331622
+status: 3
+tags: []
+user_id: En ty

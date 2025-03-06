@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/d1d82a3cc09f4ea6908f1cd042bc46e6/artifacts
+end_time: 1741263708008
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: d1d82a3cc09f4ea6908f1cd042bc46e6
+run_name: bouncy-newt-994
+run_uuid: d1d82a3cc09f4ea6908f1cd042bc46e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741263707918
+status: 4
+tags: []
+user_id: En ty

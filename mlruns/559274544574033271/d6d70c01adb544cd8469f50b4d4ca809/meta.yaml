@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/d6d70c01adb544cd8469f50b4d4ca809/artifacts
+end_time: 1741264327540
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: d6d70c01adb544cd8469f50b4d4ca809
+run_name: silent-conch-526
+run_uuid: d6d70c01adb544cd8469f50b4d4ca809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741264308995
+status: 3
+tags: []
+user_id: En ty

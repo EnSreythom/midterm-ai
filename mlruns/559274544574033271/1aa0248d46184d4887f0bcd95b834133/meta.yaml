@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/1aa0248d46184d4887f0bcd95b834133/artifacts
+end_time: 1741263096996
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: 1aa0248d46184d4887f0bcd95b834133
+run_name: fun-shoat-745
+run_uuid: 1aa0248d46184d4887f0bcd95b834133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741263096861
+status: 4
+tags: []
+user_id: En ty

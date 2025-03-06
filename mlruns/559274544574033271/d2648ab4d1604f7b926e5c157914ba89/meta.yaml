@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/559274544574033271/d2648ab4d1604f7b926e5c157914ba89/artifacts
+end_time: 1741263693325
+entry_point_name: ''
+experiment_id: '559274544574033271'
+lifecycle_stage: active
+run_id: d2648ab4d1604f7b926e5c157914ba89
+run_name: masked-worm-12
+run_uuid: d2648ab4d1604f7b926e5c157914ba89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741263693176
+status: 4
+tags: []
+user_id: En ty
